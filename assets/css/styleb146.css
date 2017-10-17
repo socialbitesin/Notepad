@@ -385,3 +385,6 @@ nav.pagination {
     @media only screen and (min-width: 40.063em) {
       .summer-tags-container .summer-tags-header {
         font-size: 1.5625rem; } }
+.summer-blog-description{
+font-size: 12px
+}
