@@ -152,10 +152,10 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase; }
   .summer-site-head .summer-site-head-content h1 {
     padding-top: 4.375rem;
-    font-size: 0.875rem;
+    font-size: 2.875rem;
     margin-bottom: 0.9375rem; }
   .summer-site-head .summer-site-head-content h2 {
-    font-size: 2.5rem;
+    font-size: 1.0rem;
     padding-bottom: 5rem;
     font-weight: 700;
     line-height: 1.3; }
@@ -385,6 +385,3 @@ nav.pagination {
     @media only screen and (min-width: 40.063em) {
       .summer-tags-container .summer-tags-header {
         font-size: 1.5625rem; } }
-.summer-blog-description{
-font-size: 12px
-}
