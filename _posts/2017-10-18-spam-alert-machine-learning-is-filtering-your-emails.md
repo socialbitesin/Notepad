@@ -2,7 +2,7 @@
 layout: post
 published: true
 mathjax: false
-featured: true
+featured: false
 comments: true
 title: Spam Alert! Machine Learning is filtering your emails.
 headline: Shwet K Mishra
