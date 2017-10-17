@@ -1,7 +1,7 @@
 title:            Social Bites
 description:      "A word after a word after a word is Power"
 logo:             
-disqus_shortname: hmfaysal
+disqus_shortname: socialbites-1
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
@@ -110,16 +110,6 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
           alterable: true
       - name: "tags"
         field:
