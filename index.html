@@ -30,11 +30,11 @@ tags: [Life, Love, Family, Technology, Gadgets, Poetry, Craft, Story, News, Revi
             </header>
             <section class="summer-post-excerpt">
                 <p>{{ post.content | strip_html | truncatewords:40 }}</p>
-		<span style="font-size:1.25rem"><a href="{{ site.url }}{{ post.url }}">Read full article</a></span>
+		<span style="font-size:1.15rem"><a href="{{ site.url }}{{ post.url }}">Read full article...</a></span>
             </section>
             
                 <div class="summer-index-post-tags">
-			<span style="font-size:1.75rem">Categories: </span>{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+			<span style="font-size:1.50rem">Categories: </span>{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
                     
                 </div>
             
