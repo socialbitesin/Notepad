@@ -7,8 +7,9 @@ comments: true
 title: Spam Alert! Machine Learning is filtering your emails.
 headline: Shwet K Mishra
 categories:
+  - personal
   - Technology
-tags: Technology
+tags: Shwet-K-Mishra
 imagefeature: want55393-1MZsWy1507745659.png
 ---
 *"Congratulations, you have won a lottery worth 10 million $ !! Reply with your credit card details to avail this."*
